@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WillPlattt
-- 👀 I’m interested in software development
+- 👀 I’m interested in Software development
 - 🌱 I’m currently learning HTML, CSS and Javascript.
-- 📫 Ho
+- 📫 
 
 <!---
 WillPlattt/WillPlattt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
